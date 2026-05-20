@@ -1,6 +1,6 @@
 # ESP32 Hue Candle Controller
 
-Control your Philips Hue candle lamp directly with an ESP32-C5 as Zigbee coordinator — no Bluetooth or Hue Bridge required.
+Control your Philips Hue candle lamp instantly with an ESP32-C5 as Zigbee coordinator — no Bluetooth or Hue Bridge required.
 
 ## Features
 - Zigbee Touchlink pairing
