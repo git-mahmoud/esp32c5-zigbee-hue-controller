@@ -1,10 +1,3 @@
-/*
- * SPDX-FileCopyrightText: 2021-2024 Espressif Systems (Shanghai) CO LTD
- *
- * SPDX-License-Identifier:  LicenseRef-Included
- *
- * Zigbee HA_on_off_switch Example with HTTP server extension
- */
 #pragma once
 
 #include "esp_zigbee_core.h"
