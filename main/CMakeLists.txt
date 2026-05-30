@@ -1,7 +1,7 @@
 idf_component_register(
     SRCS
-        "esp_zb_switch.c"
-        "web_server.c"
+       
+       
         "favorites_storage.c"
     INCLUDE_DIRS "."
     REQUIRES
