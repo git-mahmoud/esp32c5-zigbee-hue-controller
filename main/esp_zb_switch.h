@@ -8,7 +8,6 @@
 #pragma once
 
 #include "esp_zigbee_core.h"
-#include "switch_driver.h"
 #include "zcl_utility.h"
 #include <stdint.h>
 #include <stdbool.h>

@@ -1,7 +1,6 @@
 idf_component_register(
     SRCS
        "esp_zb_switch.c"
-        "switch_driver.c"
         "web_server.c"
         "favorites_storage.c"
         "../../../common/zcl_utility/src/zcl_utility.c"
